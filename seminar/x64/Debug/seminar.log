@@ -1,0 +1,3 @@
+﻿  seminare.cpp
+C:\Users\User\Documents\Assignment\C++\seminar\seminar\seminare.cpp(198,1): warning C4715: 'promptValidTime': not all control paths return a value
+  seminar.vcxproj -> C:\Users\User\Documents\Assignment\C++\seminar\x64\Debug\seminar.exe
