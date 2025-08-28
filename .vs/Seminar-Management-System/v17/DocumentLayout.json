@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seminar\\seminare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seminar\\seminar.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seminar\\seminar.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seminar\\seminar.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seminar.vcxproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj",
+              "RelativeDocumentMoniker": "seminar\\seminar.vcxproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj",
+              "RelativeToolTip": "seminar\\seminar.vcxproj",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2025-08-28T14:49:33.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seminar.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.filters",
+              "RelativeDocumentMoniker": "seminar\\seminar.vcxproj.filters",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.filters",
+              "RelativeToolTip": "seminar\\seminar.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T14:49:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "seminar.vcxproj.user",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.user",
+              "RelativeDocumentMoniker": "seminar\\seminar.vcxproj.user",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminar.vcxproj.user",
+              "RelativeToolTip": "seminar\\seminar.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-08-28T14:49:28.317Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,10 +75,14 @@
               "RelativeDocumentMoniker": "seminar\\seminare.cpp",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\Marcus\\Seminar-Management-System\\seminar\\seminare.cpp",
               "RelativeToolTip": "seminar\\seminare.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAqwPoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-14T03:43:30.204Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
